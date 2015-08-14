@@ -16,11 +16,11 @@ Things you need to do before running this script:
       
       Adding argparse
       
-      Adding --post function.
+      Adding --post flag.
       
       Adding picture upload. 
       
-      Adding --like function
+      Adding --like flag
       
       Adding autopost on specific times from updates.txt file
       
