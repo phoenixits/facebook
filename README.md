@@ -7,15 +7,22 @@ Things you need to run this script:
                 
                  pip install facebook-sdk
                  
-  Usage: python facepost.py <status update>
+  Usage: python facepost.py "post"
+  
   i.e: python facepost.py "this is a wall post"
   
   future ideas for this:
+      
       Adding argparse
+      
       Adding --post function.
+      
       Adding picture upload. 
+      
       Adding --like function
+      
       Adding autopost on specific times from updates.txt file
+      
       Adding check friend requests
       
       
