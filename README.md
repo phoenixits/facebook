@@ -2,7 +2,9 @@
 Python facebook script to post updates from server.
 
 Things you need to run this script:
+
                 facebook-sdk lib
+                
                 Access Token from Facebook. # https://developers.facebook.com/tools/explorer/
                 
                  pip install facebook-sdk
